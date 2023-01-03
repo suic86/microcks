@@ -17,6 +17,6 @@ operations:
         "operator": "equals",
         "cases": {
           "Laurent": "Laurent",
-          "default": "Philippe"
+          "default": "John"
         }
       }
